@@ -6,3 +6,7 @@ To run the script :
 
 Exemple :
 > python main.py C:\Users\xxx\Desktop\audio.mp3 ..\pic.gif
+
+dont forget to pip install moviepy
+
+## dont forget to pip install moviepy

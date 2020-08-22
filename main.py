@@ -18,7 +18,5 @@ gif_with_audio = gif.set_audio(audioclip)
 
 gif_with_audio.write_videofile('output.mp4',fps=30 , threads=1)
 
-#finalVideo = CompositeVideoClip([audioclip, gif], size=(1920,1080))
 
-#finalVideo.write_videofile('output.mp4', fps=30, threads=1)
 
